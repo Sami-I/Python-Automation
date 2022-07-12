@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48fb2cfe-5bbf-4cf3-864b-6b010de4c3b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Bic33IokF4HNlfcVLBpiMUe6B9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ExcelReports" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.WhatsApp">
+    <configuration name="Add-Chart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelReports/Add-Chart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Apply-Formula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelReports/Apply-Formula.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Format" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelReports/Format.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pivot-Table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelReports/Pivot-Table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WhatsApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WhatsApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.Pivot-Table" />
+      <item itemvalue="Python.Add-Chart" />
+      <item itemvalue="Python.Apply-Formula" />
+      <item itemvalue="Python.Format" />
+      <item itemvalue="Python.WhatsApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.WhatsApp" />
+        <item itemvalue="Python.Format" />
+        <item itemvalue="Python.Apply-Formula" />
+        <item itemvalue="Python.Add-Chart" />
+        <item itemvalue="Python.Pivot-Table" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48fb2cfe-5bbf-4cf3-864b-6b010de4c3b9" name="Default Changelist" comment="" />
+      <created>1657392143715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657392143715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657575771441">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="744" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657575771441" />
+    <state x="419" y="526" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657510391054">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="419" y="526" key="#com.intellij.fileTypes.FileTypeChooser/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657510391054" />
+    <state width="1253" height="520" key="GridCell.Tab.0.bottom" timestamp="1657577548064">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.0.bottom/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548064" />
+    <state width="1253" height="520" key="GridCell.Tab.0.center" timestamp="1657577548063">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.0.center/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548063" />
+    <state width="1253" height="520" key="GridCell.Tab.0.left" timestamp="1657577548062">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.0.left/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548062" />
+    <state width="1253" height="520" key="GridCell.Tab.0.right" timestamp="1657577548063">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.0.right/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548063" />
+    <state width="1253" height="520" key="GridCell.Tab.1.bottom" timestamp="1657577548064">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.1.bottom/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548064" />
+    <state width="1253" height="520" key="GridCell.Tab.1.center" timestamp="1657577548064">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.1.center/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548064" />
+    <state width="1253" height="520" key="GridCell.Tab.1.left" timestamp="1657577548064">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.1.left/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548064" />
+    <state width="1253" height="520" key="GridCell.Tab.1.right" timestamp="1657577548064">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1253" height="520" key="GridCell.Tab.1.right/142.1465.1440.875/0.0.2560.1440@0.0.2560.1440" timestamp="1657577548064" />
+  </component>
+</project>
